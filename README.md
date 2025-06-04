@@ -40,7 +40,7 @@ Modelos 3D para cada curso:
 - Modelo Diseño en Acero - El diseño está compuesto por una viga de perfil rectangular con un corte de sección circular y una base para la viga. Mediante la aplicación de carga de corte en el corte de la sección circular permiten demostrar el pandeo lateral torsional.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701" alt="Modelo Diseño en Acero" width="500"/>
+  <img src="https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701" alt="Modelo Diseño en Acero" width="250"/>
 </p>
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Diseño en Acero</em></p>
