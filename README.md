@@ -16,7 +16,11 @@ Modelos 3D para cada curso:
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Análisis Estructural</em></p>
 
 - Modelo Dinámica de Estructuras: El diseño está compuesto por un sistema de marcos planos. La base está diseñada para introducir el pasador y que permite fijar los marcos planos aplicación de cargas a la estructura. La segunda componente el marco plano son estructuras básicas compuestas por columnas y vigas unidas rígidamente que permiten representar el concepto de rigidez estructural al  visualizar el distinto comportamiento de los marcos planos ante la aplicación de cargas verticales. Se diseñaron tres conjuntos de marcos planos de 5, 10 y 20 milimetros de ancho y alturas de 10, 15 y 20 centimetros.
-- ![image](https://github.com/user-attachments/assets/50e78ddd-97ef-4fd9-baf8-b4e9fa7e4e8a)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50e78ddd-97ef-4fd9-baf8-b4e9fa7e4e8a" alt="Modelo Dinámica de Estructuras" width="250"/>
+</p>
+
+<p align="center"><em>Figura: Registros fotográficos del Modelo de Dinámica de Estructuras</em></p>
 
 - Modelo Mecánica de Materiales: El diseño está compuesto por un sistema de pandeo columna. El sistema permite aplicar cargas de compresión a una columna para las condiciones de borde apoyo simple y empotrado representando visualmente los conceptos del efecto de la esbeltez, las condiciones de apoyo y la carga crítica.
 <p align="center">
@@ -25,7 +29,7 @@ Modelos 3D para cada curso:
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Mecánica de Materiales</em></p>
 
-- Modelo Mecánica de Materiales - El diseño está compuesto por el conjunto de vigas con tres tipos de perfiles (ángulo rotado, canal y doble T) y una base para las vigas. Los tipos de perfiles permiten demostrar las distintas respuestas estructurales que presentan ante cargas de corte, y la base permite la rotación de la viga para visualizar el comportamiento en el eje fuerte como en el eje débil.
+- Modelo Mecánica de Materiales - El diseño está compuesto por el conjunto de vigas con tres tipos de perfiles (ángulo rotado, canal y doble T) y una base para las vigas. El conjunto de perfiles de vigas permiten demostrar las distintas respuestas estructurales (flexión y torsión) que presentan ante cargas de corte y la base permite su rotación para visualizar el comportamiento en el eje fuerte como en el eje débil.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e6b37868-8a1c-49e1-80eb-370345731d78" alt="Modelo Mecánica de Materiales" width="500"/>
@@ -33,5 +37,10 @@ Modelos 3D para cada curso:
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Mecánica de Materiales</em></p>
 
-- Modelo Diseño en Acero - Viga en voladizo:
-- ![image](https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701)
+- Modelo Diseño en Acero - El diseño está compuesto por una viga de perfil rectangular con un corte de sección circular y una base para la viga. Mediante la aplicación de carga de corte en el corte de la sección circular permiten demostrar el pandeo lateral torsional.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701" alt="Modelo Diseño en Acero" width="500"/>
+</p>
+
+<p align="center"><em>Figura: Registros fotográficos del Modelo de Diseño en Acero</em></p>
