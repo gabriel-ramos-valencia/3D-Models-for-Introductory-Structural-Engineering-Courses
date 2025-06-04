@@ -8,18 +8,16 @@ Para los modelos impresos se utilizó la impresora Creality Ender Pro - 3 con fi
 
 Registros fotográficos para cada curso:
 - Modelo Análisis Estructural - Marco plano Ancho 10mm
-![image](https://github.com/user-attachments/assets/6ec36e3a-8a9a-4d78-8159-c9795a07464d)
+  ![image](https://github.com/user-attachments/assets/6ec36e3a-8a9a-4d78-8159-c9795a07464d)
 
 - Modelo Dinámica de Estructuras - Sistema de Marcos Planos
-![image](https://github.com/user-attachments/assets/50e78ddd-97ef-4fd9-baf8-b4e9fa7e4e8a)
+  ![image](https://github.com/user-attachments/assets/50e78ddd-97ef-4fd9-baf8-b4e9fa7e4e8a)
 
 - Modelo Mecánica de Materiales - Sistema Pandeo Columna
-![image](https://github.com/user-attachments/assets/d7031269-62a8-477f-b136-55199230ad15)
-
+  ![image](https://github.com/user-attachments/assets/d7031269-62a8-477f-b136-55199230ad15)
 
 - Modelo Mecánica de Materiales - Conjunto de Vigas en Voladizo
-![image](https://github.com/user-attachments/assets/e6b37868-8a1c-49e1-80eb-370345731d78)
-
+  ![image](https://github.com/user-attachments/assets/e6b37868-8a1c-49e1-80eb-370345731d78)
 
 - Modelo Diseño en Acero - Viga en voladizo:
-![image](https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701)
+  ![image](https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701)
