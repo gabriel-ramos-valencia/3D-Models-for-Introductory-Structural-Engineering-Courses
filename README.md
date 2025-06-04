@@ -32,7 +32,7 @@ Modelos 3D para cada curso:
 - Modelo Mecánica de Materiales - El diseño está compuesto por el conjunto de vigas con tres tipos de perfiles (ángulo rotado, canal y doble T) y una base para las vigas. El conjunto de perfiles de vigas permiten demostrar las distintas respuestas estructurales (flexión y torsión) que presentan ante cargas de corte y la base permite su rotación para visualizar el comportamiento en el eje fuerte como en el eje débil.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6b37868-8a1c-49e1-80eb-370345731d78" alt="Modelo Mecánica de Materiales" width="500"/>
+  <img src="https://github.com/user-attachments/assets/e6b37868-8a1c-49e1-80eb-370345731d78" alt="Modelo Mecánica de Materiales" width="350"/>
 </p>
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Mecánica de Materiales</em></p>
