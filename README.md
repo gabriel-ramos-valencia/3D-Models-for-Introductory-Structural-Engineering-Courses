@@ -15,7 +15,7 @@ Modelos 3D para cada curso:
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Análisis Estructural</em></p>
 
-- Modelo Dinámica de Estructuras: El diseño está compuesto por un sistema de marcos planos. La base está diseñada para introducir el pasador y que permite fijar los marcos planos aplicación de cargas a la estructura. La segunda componente el marco plano son estructuras básicas compuestas por columnas y vigas unidas rígidamente que permiten representar el concepto de rigidez estructural al  visualizar el distinto comportamiento de los marcos planos ante la aplicación de cargas verticales. Se diseñaron tres conjuntos de marcos planos de 5, 10 y 20 milimetros de ancho y alturas de 10, 15 y 20 centimetros.
+- Modelo Dinámica de Estructuras: El diseño está compuesto por tres marcos planos, un pasador y tres recepctaculos. El pasador cumple dos funciones fijar las bases de los marcos planos en la estructura y a suvez permite la transmisión de las cargas dinámicas a la estructura, el recepctaculo permite integrar un acelerometro en el sistema para registrar la aceleración aplicada al modelo. Este modelo permite visualizar el concepto de frecuencias naturales para los marcos planos ante cargas dinámicas, donde se diseñaron tres marcos planos de 10 milimetros de ancho y alturas de 10, 15 y 20 centimetros.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/50e78ddd-97ef-4fd9-baf8-b4e9fa7e4e8a" alt="Modelo Dinámica de Estructuras" width="250"/>
 </p>
@@ -40,7 +40,7 @@ Modelos 3D para cada curso:
 - Modelo Diseño en Acero - El diseño está compuesto por una viga de perfil rectangular con un corte de sección circular y una base para la viga. Mediante la aplicación de carga de corte en el corte de la sección circular permiten demostrar el pandeo lateral torsional.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701" alt="Modelo Diseño en Acero" width="250"/>
+  <img src="https://github.com/user-attachments/assets/66747b36-af32-4e63-ae19-c64a58b0d701" alt="Modelo Diseño en Acero" width="200"/>
 </p>
 
 <p align="center"><em>Figura: Registros fotográficos del Modelo de Diseño en Acero</em></p>
