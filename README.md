@@ -1,7 +1,7 @@
-"El conjunto de carpetas corresponden a los cursos de ingeniería estructural que presentan 4 tipos de archivos principales:"
-"- Los archivos f3d contiene los modelos 3D para su replica como edición del diseño inicial dentro del programa de Autodesk Fusion360"
-"- Los archivos 3mf contiene las caracteristicas de impresión como material o configuraciones especificas de la impresora utilizada"
-"- Los archivos STL contiene la geometría del modelo 3D"
-"- Los archivos g-code contiene las instrucciones de la impresión del modelo 3D"
-"- Los archivos PDF contiene información respecto al modelo, el concepto que se busca representar y su aplicación"
-" Para los modelos impresos se utilizó la impresora Creality Ender Pro - 3 con filamento PLA de la marca Hellbot."
+El conjunto de carpetas son los cursos de ingeniería estructural que contienen 4 archivos principales:
+- Los archivos f3d contiene los modelos 3D para su replica como edición del diseño inicial dentro del programa de Autodesk Fusion360.
+- Los archivos 3mf contiene las caracteristicas de impresión como material o configuraciones especificas de la impresora utilizada.
+- Los archivos STL contiene la geometría del modelo 3D.
+- Los archivos g-code contiene las instrucciones de la impresión del modelo 3D.
+- Los archivos PDF contiene información respecto al modelo, el concepto que se busca representar y su aplicación.
+Para los modelos impresos se utilizó la impresora Creality Ender Pro - 3 con filamento PLA de la marca Hellbot.
