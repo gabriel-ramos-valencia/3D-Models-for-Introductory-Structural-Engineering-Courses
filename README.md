@@ -7,7 +7,9 @@ El conjunto de carpetas son los cursos de ingeniería estructural que contienen 
 Para los modelos impresos se utilizó la impresora Creality Ender Pro - 3 con filamento PLA de la marca Hellbot.
 
 Registros fotográficos para cada curso:
-- Modelo Análisis Estructural - Marco plano Ancho 10mm
+- Modelo Análisis Estructural: El diseño está compuesto por dos componentes la base y el marcos plano. La base se diseño para facilitar la rotación y posibilitar la aplicación de cargas verticales. La segunda componente el marco plano son estructuras básicas compuestas por columnas y vigas unidas rígidamente que permiten representar el concepto de rigidez estructural al  visualizar el distinto comportamiento de la respuesta estructural para marcos planos ante la aplicación de cargas. Se diseñaron tres conjuntos de marcos planos con anchos de 5, 10 y 20mm de ancho, con alturas de 10, 15 y 20 centimetros.
+
+- Registros fotográficos Modelo Análisis Estructural:
 -  ![image](https://github.com/user-attachments/assets/6ec36e3a-8a9a-4d78-8159-c9795a07464d)
 
 - Modelo Dinámica de Estructuras - Sistema de Marcos Planos
