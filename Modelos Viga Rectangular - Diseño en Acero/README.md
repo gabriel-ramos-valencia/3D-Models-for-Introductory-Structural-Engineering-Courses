@@ -32,3 +32,30 @@
 * Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
 
 * Generado el Gcode, no son modificables.
+
+# Dimensiones esquema de la Viga en Voladizo
+
+En la siguiente figura se muestra el esquema de la viga en voladizo de perfil rectangular:
+
+<p align="center">
+  <img src="URL_IMAGEN_VIGA_RECTANGULAR_AQUI.png" alt="Diseño de la viga de perfil rectangular con perforación" width="400"/>
+</p>
+<p align="center"><em>Figura 1: Diseño de la viga de perfil rectangular con perforación.</em></p>
+
+En la siguiente tabla se especifican las medidas de la viga:
+
+<p align="center">Tabla 1: Características de la viga de perfil rectangular.</p>
+
+| Modelos  | $h_a$ [mm] | b [mm] | L [mm] | D [mm] |
+|:---------|:----------:|:------:|:------:|:------:|
+| Diseño 1 | 15         | 1      | 150    | 6      |
+
+Las características de las componentes del modelo general para la viga en voladizo de perfil rectangular, se exponen en la siguiente tabla:
+
+<p align="center">Tabla 2: Componentes de la viga de perfil rectangular.</p>
+
+| Cantidad | Componentes         | Descripción | Tiempo  | Masa [g] |
+|:--------:|:--------------------|:------------|:--------:|:----------:|
+| 1        | Base Eje            |             | 3h1m    | 21         |
+| 1        | Perfil Rectangular  |             | 2h14min | 20         |
+| 1        | Imán Neodimio Gancho|             | -       | -          |
