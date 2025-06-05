@@ -13,7 +13,7 @@ Curso Dinámica de Estructuras: Sistema de Marcos Planos
 Archivos STL (.stl)
 ▪ Son un formato de archivo estándar para la impresión 3D y pueden ser abiertos y utilizados en la mayoría de los programas de impresión 3D.
 ▪ Para el caso de la investigación se utilizó el programa Ultimaker Cura para definir los parámetros de impresión de los modelos.
-Archivos Ultimaker Cura (.3mf)
+"Archivos Ultimaker Cura (.3mf)"
 ▪ Estos archivos a partir de los modelos STL y la configuración de impresión seleccionada, que para el caso de la investigación contienen la configuración preestablecida para la impresora Ender Creality Pro-3, optimizada para filamento PLA de la marca Hellbot.
 ▪ Se especifican los parámetros:
 ▪ Tipo de filamento.
