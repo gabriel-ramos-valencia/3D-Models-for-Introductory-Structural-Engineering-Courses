@@ -43,8 +43,6 @@
 </p>
 <p align="center"><em>Figura 1: Diseño de Marco Plano.</em></p>
 
-"https://github.com/user-attachments/assets/816e560e-b8a6-49af-8ef6-b785bba2bb71"
-
 En la siguiente tabla se especifican las medidas de los modelos impresos:
 
 <p align="center">Tabla 1: Dimensiones de los marcos planos.</p>
