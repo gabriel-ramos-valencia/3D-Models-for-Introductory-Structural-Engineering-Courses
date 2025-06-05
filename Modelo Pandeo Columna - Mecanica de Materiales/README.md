@@ -42,7 +42,7 @@
 En la siguiente figura se muestra el esquema de la columna diseñada:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/74bfe2d6-b43d-4194-b5ec-15127ca13c7c" alt="Diseño del Marco Plano para Mecánica de Materiales" width="250"/>
+  <img src="https://github.com/user-attachments/assets/74bfe2d6-b43d-4194-b5ec-15127ca13c7c" alt="Diseño del Marco Plano para Mecánica de Materiales" width="100"/>
 </p>
 <p align="center"><em>Figura 1: Diseño del marco plano para Mecánica de Materiales.</em></p>
 
