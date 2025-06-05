@@ -45,9 +45,11 @@
 En la siguiente figura se muestra el esquema del marco plano diseñado:
 
 <p align="center">
-  <img src="URL_DE_TU_IMAGEN_DE_ESQUEMA_MARCO_DINAMICA_AQUI.png" alt="Diseño del Marco Plano" width="300"/>
+  <img src="https://github.com/user-attachments/assets/058c7146-a819-40b8-ba7a-5f59d2121699" alt="Diseño del Marco Plano" width="300"/>
 </p>
 <p align="center"><em>Figura 1: Diseño del marco plano.</em></p>
+
+
 
 En la siguiente tabla se especifican las medidas del modelo impreso:
 
