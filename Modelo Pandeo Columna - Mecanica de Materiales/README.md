@@ -36,3 +36,36 @@
 * Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
 
 * Generado el Gcode, no son modificables.
+
+## Dimensiones Modelo Mecánica de Materiales
+
+En la siguiente figura se muestra el esquema de la columna diseñada:
+
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_DE_ESQUEMA_COLUMNA_AQUI.png" alt="Diseño del Marco Plano para Mecánica de Materiales" width="250"/>
+</p>
+<p align="center"><em>Figura 1: Diseño del marco plano para Mecánica de Materiales.</em></p>
+
+A continuación, se especifican las medidas de los modelos impresos:
+
+<p align="center">Tabla 1: Características de la columna.</p>
+
+| Modelos  | h [mm] | b [mm] | $e_b$ [mm] | $e_c$ [mm] | D [mm] |
+|:---------|:------:|:------:|:----------:|:----------:|:------:|
+| Diseño 1 | 190    | 38.5   | 2.00       | 1.00       | 5.30   |
+
+Las características de las componentes del modelo general de la Figura 1 los tiempos de impresión e instrumentos para una columna de ancho de 1mm, se exponen en la siguiente tabla:
+
+<p align="center">Tabla 2: Componentes del modelo del pandeo de columna.</p>
+
+| Cantidad | Componentes Estructura Pandeo Columna | Descripción | Tiempo  | Masa [g] |
+|:--------:|:---------------------------------------|:------------|:--------:|:----------:|
+| 1        | Base Inferior                          | 6h53min     | 51       |
+| 1        | Base Superior                          | 5h35min     | 40       |
+| 1        | Columna                                | 59 min      | 6        |
+| 1        | Soporte                                | 2h25min     | 16       |
+| 1        | Recipiente                             | 3h11min     | 27       |
+| 1        | Carril                                 | 6h53min     | 51       |
+| 9        | Tornillos 3/16" x 1 ½"                 | -           | -        |
+| 9        | Tuercas 3/16"                          | -           | -        |
+| 2        | Tornillos 5/32" x 1 ½"                 | -           | -        |
