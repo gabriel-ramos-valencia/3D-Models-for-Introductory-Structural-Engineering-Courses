@@ -38,7 +38,7 @@
 En la siguiente figura se muestra la Viga de Perfil Ángulo:
 
 <p align="center">
-  <img src="URL_IMAGEN_VIGA_ANGULO_AQUI.png" alt="Diseño de la viga de perfil ángulo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/fb103aaf-1990-4d0b-84c0-247dc1abbeea" alt="Diseño de la viga de perfil ángulo" width="400"/>
 </p>
 <p align="center"><em>Figura 1: Diseño de la viga de perfil ángulo.</em></p>
 
@@ -53,7 +53,7 @@ En la siguiente tabla se especifican las medidas del modelo impreso:
 En la siguiente figura se muestra la Viga de Perfil doble T:
 
 <p align="center">
-  <img src="URL_IMAGEN_VIGA_DOBLE_T_AQUI.png" alt="Diseño de la viga de perfil doble T" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ada70ba2-2052-4ac8-bf83-29cd8108caef" alt="Diseño de la viga de perfil doble T" width="400"/>
 </p>
 <p align="center"><em>Figura 2: Diseño de la viga de perfil doble T.</em></p>
 
@@ -68,7 +68,7 @@ En la siguiente tabla se detallan las medidas del modelo impreso:
 En la siguiente figura se muestra la Viga de Perfil Canal:
 
 <p align="center">
-  <img src="URL_IMAGEN_VIGA_CANAL_AQUI.png" alt="Diseño de la viga de perfil canal" width="400"/>
+  <img src="https://github.com/user-attachments/assets/c8737b41-ecc0-4e6d-a9ab-bbfa36822095" alt="Diseño de la viga de perfil canal" width="400"/>
 </p>
 <p align="center"><em>Figura 3: Diseño de la viga de perfil canal.</em></p>
 
