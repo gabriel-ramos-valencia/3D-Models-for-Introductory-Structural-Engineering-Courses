@@ -32,3 +32,67 @@
 * Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
 
 * Generado el Gcode, no son modificables.
+
+# Dimensiones esquema de la Viga en Voladizo
+
+En la siguiente figura se muestra la Viga de Perfil Ángulo:
+
+<p align="center">
+  <img src="URL_IMAGEN_VIGA_ANGULO_AQUI.png" alt="Diseño de la viga de perfil ángulo" width="400"/>
+</p>
+<p align="center"><em>Figura 1: Diseño de la viga de perfil ángulo.</em></p>
+
+En la siguiente tabla se especifican las medidas del modelo impreso:
+
+<p align="center">Tabla 1: Características de la viga de perfil ángulo.</p>
+
+| Modelos  | $h_a$ [mm] | espesor [mm] | L [mm] | Ixx [mm4] | Iyy [mm4] |
+|:---------|:----------:|:------------:|:------:|:---------:|:---------:|
+| Diseño 1 | 15         | 1            | 150    | 1017      | 257       |
+
+En la siguiente figura se muestra la Viga de Perfil doble T:
+
+<p align="center">
+  <img src="URL_IMAGEN_VIGA_DOBLE_T_AQUI.png" alt="Diseño de la viga de perfil doble T" width="400"/>
+</p>
+<p align="center"><em>Figura 2: Diseño de la viga de perfil doble T.</em></p>
+
+En la siguiente tabla se detallan las medidas del modelo impreso:
+
+<p align="center">Tabla 2: Características de la viga de perfil doble T.</p>
+
+| Modelos  | $h_a$ [mm] | b [mm] | L [mm] | Ixx [mm4] | Iyy [mm4] |
+|:---------|:----------:|:------:|:------:|:---------:|:---------:|
+| Diseño 1 | 13         | 10     | 150    | 1165      | 168       |
+
+En la siguiente figura se muestra la Viga de Perfil Canal:
+
+<p align="center">
+  <img src="URL_IMAGEN_VIGA_CANAL_AQUI.png" alt="Diseño de la viga de perfil canal" width="400"/>
+</p>
+<p align="center"><em>Figura 3: Diseño de la viga de perfil canal.</em></p>
+
+En la siguiente tabla se detallan las medidas del modelo impreso:
+
+<p align="center">Tabla 3: Características de la viga de perfil canal.</p>
+
+| Modelos  | $h_a$ [mm] | b [mm] | L [mm] | Ixx [mm4] | Iyy [mm4] |
+|:---------|:----------:|:------:|:------:|:---------:|:---------:|
+| 15       | 15         | 5      | 150    | 374       | 45        |
+| Perfil   | 15         | 10     | 150    | 1165      | 327       |
+| Canal    | 15         | 15     | 150    | 1656      | 1008      |
+|          | 15         | 20     | 150    | 2146      | 2220      |
+
+Los tiempos de impresión y las componentes del modelo general para las vigas en voladizo están detalladas en la siguiente tabla:
+
+<p align="center">Tabla 4: Componentes de las vigas en voladizo.</p>
+
+| Cantidad | Componentes         | Descripción | Tiempo  | Masa [g] |
+|:--------:|:--------------------|:------------|:--------:|:----------:|
+| 1        | Base eje            |             | 3h1m    | 21         |
+| 1        | Perfil Ángulo Rotado |             | 4h16min | 31         |
+| 1        | Perfil Doble T      |             | 4h32min | 35         |
+| 1        | Perfil Canal Ala 5mm |             | 3h41min | 28         |
+| 1        | Perfil Canal Ala 10mm|             | 4h15min | 33         |
+| 1        | Perfil Canal Ala 15mm|             | 4h39min | 37         |
+| 1        | Perfil Canal Ala 20mm|             | 5h14min | 42         |
