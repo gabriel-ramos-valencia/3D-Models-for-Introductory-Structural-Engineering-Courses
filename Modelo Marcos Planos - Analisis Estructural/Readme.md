@@ -35,3 +35,37 @@
 * Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
 
 * Generado el Gcode, no son modificables.
+
+## Esquema del Modelo
+
+<p align="center">
+  <img src="![image](https://github.com/user-attachments/assets/303c1a70-7add-403c-b386-e9eada63f20a)
+" alt="Diseño de Marco Plano" width="300"/>
+</p>
+<p align="center"><em>Figura 1: Diseño de Marco Plano.</em></p>
+
+En la siguiente tabla se especifican las medidas de los modelos impresos:
+
+<p align="center">Tabla 1: Dimensiones de los marcos planos.</p>
+
+| Modelos  | $h_c$ [mm] | $b_v$ [mm] | $b_b$ [mm] | $h_v$ [mm] | $e_1$ [mm] | $e_2$ [mm] | D[mm] |
+|:---------|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:-----:|
+| Diseño 1 | 100        | 39.6       | 50         | 13.5       | 5.2        | 2.00       | 5.30  |
+| Diseño 2 | 150        | 39.6       | 50         | 13.5       | 5.2        | 2.00       | 2.00       | 5.30  |
+| Diseño 3 | 200        | 39.6       | 50         | 13.5       | 5.2        | 2.00       | 2.00       | 5.30  |
+
+En caso de utilizar los parámetros del modelo propuesto de la Tabla 1, los tiempos de impresión y los materiales para su funcionamiento se exponen en la siguiente tabla:
+
+<p align="center">Tabla 2: Características Marco Plano Ancho 5mm.</p>
+
+| Cantidad | Componentes – Marco Plano Ancho 5mm | Descripción                    | Tiempo    | Masa [g] |
+|:--------:|:-------------------------------------|:-------------------------------|:----------:|:----------:|
+| 1        | Base Marco                           | 4h9min                         | 27         |
+| 1        | Marco Plano - Altura 10cm            | 1h6min                         | 6          |
+| 1        | Marco Plano - Altura 15cm            | 1h17min                        | 7          |
+| 1        | Marco Plano - Altura 20cm            | 1h27min                        | 9          |
+| 6        | Tornillos 3/16" x 1 ½"               | -                              | -          |
+| 6        | Tuercas 3/16"                        | -                              | -          |
+| 1        | Imán Neodimio Gancho                 | -                              | -          |
+| 1        | Mosquetón Con Destorcedor Metálico   | -                              | -          |
+| 1        | Prensa Sargento Carpintero De 150 Mm | -                              | -          |
