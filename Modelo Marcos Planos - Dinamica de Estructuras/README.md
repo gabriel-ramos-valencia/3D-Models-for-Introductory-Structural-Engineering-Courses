@@ -39,3 +39,40 @@
 * Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
 
 * Generado el Gcode, no son modificables.
+
+## Modelo Dinámica de Estructuras
+
+En la siguiente figura se muestra el esquema del marco plano diseñado:
+
+<p align="center">
+  <img src="URL_DE_TU_IMAGEN_DE_ESQUEMA_MARCO_DINAMICA_AQUI.png" alt="Diseño del Marco Plano" width="300"/>
+</p>
+<p align="center"><em>Figura 1: Diseño del marco plano.</em></p>
+
+En la siguiente tabla se especifican las medidas del modelo impreso:
+
+<p align="center">Tabla 1: Dimensiones de los marcos planos</p>
+
+| Modelos  | $h_c$ [mm] | $b_c$ [mm] | $b_v$ [mm] | $e_c$ [mm] | $e_b$ [mm] | D [mm] |
+|:---------|:----------:|:----------:|:----------:|:----------:|:----------:|:------:|
+| Diseño 1 | 100        | 5.20       | 39.6       | 50         | 2.00       | 2.00   | 5.30   |
+| Diseño 2 | 150        | 5.20       | 39.6       | 50         | 2.00       | 2.00   | 5.30   |
+| Diseño 3 | 200        | 5.20       | 39.6       | 50         | 2.00       | 2.00   | 5.30   |
+
+Las características de las componentes del modelo general de la Figura 1, para un marco plano de columna de ancho de 5mm, se exponen en la siguiente tabla:
+
+<p align="center">Tabla 2: Características Marco Plano Ancho 5mm</p>
+
+| Cantidad | Componentes - Marco Plano Columna 5mm | Descripción                    | Tiempo     | Masa [g] |
+|:--------:|:---------------------------------------|:-------------------------------|:-----------:|:----------:|
+| 1        | Base Celular                           | 5h48min                        | 50          |
+| 4        | Laterales                              | 2h20min                        | 15          |
+| 1        | Base Marco Plano                       | 7h15min                        | 40          |
+| 1        | Pasador                                | 2h35min                        | 21          |
+| 1        | Marco Plano Altura 10 cm               | 1h46min                        | 10          |
+| 1        | Marco Plano Altura 15 cm               | 2h2min                         | 12          |
+| 1        | Marco Plano Altura 20 cm               | 2h19min                        | 13          |
+| 18       | Tornillos 3/16" X 1 ½"                 | -                              | -           |
+| 18       | Tuercas 3/16" X                        | -                              | -           |
+| 9        | Tornillos 5/32" X 1 ½"                 | -                              | -           |
+| 9        | Tuercas 5/32"                          | -                              | -           |
