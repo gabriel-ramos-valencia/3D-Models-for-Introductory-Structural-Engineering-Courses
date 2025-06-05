@@ -39,8 +39,7 @@
 ## Esquema del Modelo
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d8b928d9-c11c-4fa3-b54c-03016c5ad38e)
-" alt="Diseño de Marco Plano" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d8b8928d-9-c11c-4fa3-b54c-03016c5ad38e" alt="Diseño de Marco Plano" width="300"/>
 </p>
 <p align="center"><em>Figura 1: Diseño de Marco Plano.</em></p>
 
