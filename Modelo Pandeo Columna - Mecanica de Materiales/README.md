@@ -1,0 +1,38 @@
+# Curso Mecánica de Materiales: Sistema Pandeo Columnas
+
+## Archivos Autodesk Fusion 360 (.f3d)
+
+* En esta base archivos están los modelos de diseño propuestos para el curso análisis estructural.
+
+* En la sección **“Modificar”**, **“cambiar parámetros”**, se pueden cambiar las siguientes dimensiones de la estructura y las columnas:
+    * Ancho de la estructura.
+    * Altura de la columna.
+    * Espesor de la columna.
+    * Ancho de la columna.
+
+* Finalizado el proceso de diseño, se debe exportar el modelo como un archivo STL.
+
+## Archivos STL (.stl)
+
+* Son un formato de archivo estándar para la impresión 3D y pueden ser abiertos y utilizados en la mayoría de los programas de impresión 3D.
+
+* Para el caso de la investigación se utilizó el programa **Ultimaker Cura** para definir los parámetros de impresión de los modelos.
+
+## Archivos Ultimaker Cura (.3mf)
+
+* Estos archivos a partir de los modelos STL y la configuración de impresión seleccionada, que para el caso de la investigación contienen la configuración preestablecida para la impresora **Ender Creality Pro-3**, optimizada para filamento **PLA** de la marca **Hellbot**.
+
+* Se especifican los parámetros:
+    * Tipo de filamento.
+    * Patrones de relleno.
+    * Uso de soportes.
+
+* Puedes ajustarse a las especificaciones del usuario, dependiendo del tipo de impresora y/o experimentación para el análisis del comportamiento ante diferentes parámetros.
+
+* Al terminar el proceso de ajustes en la impresión del modelo, se codifica en el archivo de impresión.
+
+## Códigos Gcode (.gcode)
+
+* Los archivos Gcode son las instrucciones específicas que la impresora 3D utiliza para crear los modelos.
+
+* Generado el Gcode, no son modificables.
