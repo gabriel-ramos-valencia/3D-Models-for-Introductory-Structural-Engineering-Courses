@@ -38,7 +38,7 @@
 En la siguiente figura se muestra el esquema de la viga en voladizo de perfil rectangular:
 
 <p align="center">
-  <img src="URL_IMAGEN_VIGA_RECTANGULAR_AQUI.png" alt="Diseño de la viga de perfil rectangular con perforación" width="400"/>
+  <img src="https://github.com/user-attachments/assets/f13ecbee-9ffe-4ec3-8d0a-711d39641188" alt="Diseño de la viga de perfil rectangular con perforación" width="600"/>
 </p>
 <p align="center"><em>Figura 1: Diseño de la viga de perfil rectangular con perforación.</em></p>
 
